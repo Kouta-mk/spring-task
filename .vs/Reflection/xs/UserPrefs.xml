@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{CDC42CBA-0DA9-AB47-CA20-F19EA1D17B68}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameManager.cs" Line="104" Column="29" />
+      <File FileName="Assets/Scripts/Bounce.cs" Line="7" Column="28" />
+      <File FileName="Assets/Scripts/ClearManager.cs" Line="49" Column="39" />
+      <File FileName="Assets/Scripts/TimeUp.cs" Line="25" Column="46" />
+      <File FileName="Assets/Scripts/TitleManager.cs" Line="22" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Reflection" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="GameManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Reflection" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="996a8bac-fb9e-4756-b1c6-fa528931ed8c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
